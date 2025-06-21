@@ -24,9 +24,15 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="base64.h" />
+    <ClInclude Include="httplib.h" />
+    <ClInclude Include="json.hpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="README.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="postman-enroll.png" />
+    <Image Include="postman-verify.png" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
